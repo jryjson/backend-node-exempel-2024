@@ -1,0 +1,13 @@
+https://nodejs.org/en/learn/getting-started/introduction-to-nodejs
+
+------
+
+app.js
+
+Kör koden i ett terminalfönster i samma mapp
+node app.js
+
+Gå till http://localhost:3000 i en webbläsare
+eller
+http://127.0.0.1:3000
+

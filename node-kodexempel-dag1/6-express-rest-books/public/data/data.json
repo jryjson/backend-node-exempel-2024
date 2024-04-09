@@ -1,0 +1,16 @@
+[
+  {
+    "bokId": "1",
+    "bokTitel": "Sagan om ringen",
+    "bokForfattare": "J.R.R Tolkien",
+    "bokIsbn": "12345",
+    "bokPris": 120
+  },
+  {
+    "bokId": "2",
+    "bokTitel": "Pippi på de sju haven",
+    "bokForfattare": "Astrid Lindgren",
+    "bokIsbn": "23456",
+    "bokPris": 140
+  }
+]
